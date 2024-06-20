@@ -4,7 +4,7 @@
 * **COOKING MASTER with SOLAR** [[Github]](https://github.com/Hxjxxn95/COOKING-MASTER-with-SOLAR) 🏆
   * Author: 김호준
   * Method: Solar LLM, YOLO v8
-* **Q-ALIGN caption: Visual Scoring Model with Captioning Capacity** [[Github]](https://github.com/qowngus33/q-align-caption) 🏆
+* **Q-ALIGN Caption: Visual Scoring Model with Captioning Capacity** [[Github]](https://github.com/qowngus33/q-align-caption) 🏆
   * Author: 배주현
   * Method: Q-Align
 * **Mathemagics** [[Github]](https://github.com/Jung-H-C/Mathemagics)
